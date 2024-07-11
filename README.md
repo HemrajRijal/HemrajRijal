@@ -3,7 +3,7 @@
 
 </br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/HemrajRijal/HemrajRijal/](https://github.com/HemrajRijal/HemrajRijal/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/HemrajRijal/HemrajRijal/)
 
 - 💬 Ask me about **Java, Groovy, Grails**
 
